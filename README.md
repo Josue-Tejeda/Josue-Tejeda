@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Josue Tejeda</h1>
 <h3 align="center">A passionate game/web developer from Colombia</h3>
 
-- 🔭 I’m currently looking for a job **as a developer**
-
 - 🌱 I’m always learning **Frameworks, Courses and new technologies**
 
 - 📫 How to reach me **josuetejeda02@gmail.com**
