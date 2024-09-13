@@ -1,15 +1,63 @@
-<h1 align="center">Hi 👋, I'm Josue Tejeda</h1>
-<h3 align="center">A passionate game/web developer from Colombia</h3>
+## 👋  &nbsp;Hi, I'm Josue! 
+ 
 
-- 🌱 I’m always learning **Frameworks, Courses and new technologies**
+### 👨🏻‍💻 &nbsp;About Me
 
-- 📫 How to reach me **josuetejeda02@gmail.com**
 
-<p align="left">
+- 💡 &nbsp;I’m a Backend Developer, Have solid Skills in areas of Software Development, Networking Engineering, and Data Analysis
+- 🌱 &nbsp;I like creating simplified solutions and love to explore new technologies.
+- ✍️ &nbsp;In my free time, I listen to music, exercise, read books, and play video games. 
+- 💬&nbsp;I am currently looking for a job opportunity as backend developer. Feel free to reach out to me if you want to work together  or just for some interesting discussion.
+
+
+<img alt="Mario coding" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" align="right"/>
+
+### 🛠 &nbsp;Tech Stack
+
+#### Languages
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+
+#### Backend Frameworks
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask&logoColor=white)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)&nbsp;
+
+
+#### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)&nbsp;
+![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
+
+#### Frontends
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)&nbsp;
+![HTMX](https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=fff)
+
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css&logoColor=563D7C)
+
+#### IDE
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-333333?style=flat&logo=Jupyter)&nbsp;
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=josue-tejeda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josue-tejeda&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="background:white;" <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### 🤝🏻 &nbsp;Connect with Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joxuete&show_icons=true&locale=en&layout=compact" alt="joxuete" /></p>
-
+<p align="center">
+<a href="https://www.linkedin.com/in/josue-tejeda-a79987169/"><img src="https://img.shields.io/badge/-Josue%20Tejeda-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:josuetejeda02@gmail.com"><img src="https://img.shields.io/badge/-Email me-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
